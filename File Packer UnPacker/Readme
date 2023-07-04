@@ -11,28 +11,27 @@
 
 - Design one window which accept username and password from user for authentication purpose. 
 
-![](Aspose.Words.90255e38-c09c-4fa3-8ded-a30712b7e4a1.004.png)
+
 
 - When user submit the username and password we have to check whether username is “MarvellousAdmin” and password is “MarvellousAdmin”. 
-- If password or username is incorrect then we have to provide 3 attempts to user. I user is unable to provide correct username and password in 3 attempts we have to close the project. 
+- If password or username is incorrect then we have to provide 3 attempts to user. If user is unable to provide correct username and password in 3 attempts we have to close the project. 
 - For checking whether username and password contains minimum contains 8 letters or not we have to create one thread. That thread also check whether caps lock key is on or not. 
 - After successful authentication we have to open new window which displays two options as Pack and Unpack. 
 
-![](Aspose.Words.90255e38-c09c-4fa3-8ded-a30712b7e4a1.005.png)
 
-- When user press Pack button we have to open new window which looks like ![](Aspose.Words.90255e38-c09c-4fa3-8ded-a30712b7e4a1.003.png)
 
-![](Aspose.Words.90255e38-c09c-4fa3-8ded-a30712b7e4a1.006.png)
+- When user press Pack button we have to open new window which looks like !
+
+
 
 - From the above window we have to accept name of directory that we want to pack and name of the packed file from user. 
 - Name of the packed file gets newly created which contains data and metadata of all files from that directory. 
 - When user click submit button we have to perform “Packing Activity”. After that previous window should be displayed as 
 
-![](Aspose.Words.90255e38-c09c-4fa3-8ded-a30712b7e4a1.005.png)
+
 
 - When user click Unpack button below window should be displayed as ![](Aspose.Words.90255e38-c09c-4fa3-8ded-a30712b7e4a1.003.png)
 
-![](Aspose.Words.90255e38-c09c-4fa3-8ded-a30712b7e4a1.007.png)
 
 - From this window accept name of packed file.  
 - When user click Extract Here button we have to perform “Unpacking Activity”. 
